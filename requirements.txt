@@ -1,0 +1,9 @@
+Flask==3.0.0
+Werkzeug==3.0.1
+google-generativeai
+
+# Optional: For environment variable management
+python-dotenv==1.0.0
+
+# If you get errors, upgrade to latest version:
+# pip install --upgrade google-generativeai
