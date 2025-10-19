@@ -103,13 +103,6 @@ ai-assistant/
 ├── feedback/
 │   └── feedback.txt           # User feedback storage (auto-generated)
 │
-├── docs/
-│   ├── SETUP_GUIDE.md        # Detailed setup instructions
-│   ├── WINDOWS_SETUP.md      # Windows-specific setup
-│   └── TROUBLESHOOTING.md    # Common issues and solutions
-│
-├── setup.bat                  # Windows setup script
-├── start.bat                  # Windows start script
 ├── README.md                  # This file
 └── LICENSE                    # MIT License
 ```
@@ -342,8 +335,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - Gyana Ranjan Sahoo
 
-Project Link: [https://github.com/YOUR_USERNAME/ai-assistant](https://github.com/YOUR_USERNAME/ai-assistant)
-
+Project Link: https://github.com/CoderGyanaa/ai-assistant-prompt-engineering
 ---
 
 ## 📊 Project Stats
