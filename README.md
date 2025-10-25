@@ -285,21 +285,6 @@ fetch('/process', {
 .then(data => console.log(data.response));
 ```
 
-## 📸 Screenshots
-
-[Add your screenshots here]
-
-### Main Interface
-[Screenshot of the main page]
-
-### Question Answering
-[Screenshot of Q&A in action]
-
-### Text Summarization
-[Screenshot of summarization feature]
-
-### Creative Content
-[Screenshot of creative generation]
 
 ## 🤝 Contributing
 
