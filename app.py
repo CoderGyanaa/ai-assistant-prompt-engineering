@@ -2,12 +2,17 @@ from flask import Flask, request, render_template, jsonify
 from datetime import datetime
 import os
 import google.generativeai as genai
+from dotenv import load_dotenv
+load_dotenv()
 
 app = Flask(__name__)
 
 # Configure Gemini API
-GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', 'YOUR_API_KEY_HERE')
+
+
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 genai.configure(api_key=GEMINI_API_KEY)
+
 
 # Try to use the best available model with good free tier limits
 def get_model():
