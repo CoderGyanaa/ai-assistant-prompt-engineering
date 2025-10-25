@@ -64,8 +64,6 @@ This AI Assistant is a **Prompt Engineering project** that showcases how differe
 
 ## 🎥 Demo
 
-[Add screenshots or GIF demo here]
-
 **Live Demo:** (https://ai-assistant-17eb.onrender.com/)
 
 ## 🛠 Technologies Used
